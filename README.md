@@ -1,7 +1,7 @@
 # Arkose Funcaptcha Solver
 
 Funcaptcha Solver made by kek! 🚀
-https://t.me/kokandg
+https://t.me/minhquan2006
 
 ## Features
 - Proxy HTTPS Support
